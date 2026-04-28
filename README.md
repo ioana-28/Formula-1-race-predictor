@@ -5,7 +5,7 @@ The main implementation is in `f1.ipynb`.
 
 ## Installation
 
-Yes — the user should install the Python libraries used by the notebook before running it.
+The user should install the Python libraries used by the notebook before running it.
 
 ### Recommended setup
 
